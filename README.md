@@ -1,2 +1,2 @@
-# vscode-template-main
- A Template for C++ with RayLib for Game Programming
+# Smash
+ A Raylib based C++ Collision Game 
